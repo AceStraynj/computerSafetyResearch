@@ -7,23 +7,23 @@ https://docs.google.com/spreadsheets/d/12lUnchh8Rf9TeeBG-PMi-U_9YT5n7twX9aGH2zvK
 # Survey Questions
 ## Hardware
 ### For each of the following options, select “Yes” if you currently use this method to log into your phone, and “No” if you do not.
-- Fingerprints | Yes/No
-- Face ID | Yes/No
-- PIN (4 or less digits) | Yes/No
-- PIN (5 or more digits) | Yes/No
-- Password | Yes/No
+- Fingerprints.......Yes/No
+- Face ID.......Yes/No
+- PIN (4 or less digits).......Yes/No
+- PIN (5 or more digits).......Yes/No
+- Password.......Yes/No
 
 ### For each of the following options, select “Yes” if you currently use this method to log into your computer, and “No” if you do not.
-- Fingerprints | Yes/No
-- Face ID | Yes/No
-- PIN (4 or less digits) | Yes/No
-- PIN (5 or more digits) | Yes/No
-- Password | Yes/No
+- Fingerprints.......Yes/No
+- Face ID.......Yes/No
+- PIN (4 or less digits).......Yes/No
+- PIN (5 or more digits).......Yes/No
+- Password.......Yes/No
 
 ### Would you plug in a USB into your personal computer if it was a USB that…
-- You found in the woods? | Yes/No
-- You left in a public place overnight? | Yes/No
-- You don't recognise, but found in your house? | Yes/No
+- You found in the woods?.......Yes/No
+- You left in a public place overnight?.......Yes/No
+- You don't recognise, but found in your house?.......Yes/No
 
 
 ## Two-Factor
@@ -50,24 +50,24 @@ https://docs.google.com/spreadsheets/d/12lUnchh8Rf9TeeBG-PMi-U_9YT5n7twX9aGH2zvK
 
 ## Internet
 ### Would you scan a QR code if it was...
-- At a restaurant | Yes/No
-- On a flyer on campus | Yes/No
-- On a flyer on a street | Yes/No
-- Shown by a friend | Yes/No
-- Shown by a stranger | Yes/No
+- At a restaurant.......Yes/No
+- On a flyer on campus.......Yes/No
+- On a flyer on a street.......Yes/No
+- Shown by a friend.......Yes/No
+- Shown by a stranger.......Yes/No
 
 ### Would you connect to public Wi-Fi in/at a...
-- Restaurant | Yes/No
-- College Campus | Yes/No
-- Hotel | Yes/No
-- Airplane | Yes/No
-- Cafe | Yes/No
+- Restaurant.......Yes/No
+- College Campus.......Yes/No
+- Hotel.......Yes/No
+- Airplane.......Yes/No
+- Cafe.......Yes/No
 
 ### Would you click a link in an email if...
-- It was sent by a friend | Yes, without double-checking/Yes, after looking carefully/No
-- It was sent from a stranger | Yes, without double-checking/Yes, after looking carefully/No
-- It came from a service you subscribe to | Yes, without double-checking/Yes, after looking carefully/No
-- It asked for your banking information | Yes, without double-checking/Yes, after looking carefully/No
+- It was sent by a friend.......Yes, without double-checking/Yes, after looking carefully/No
+- It was sent from a stranger.......Yes, without double-checking/Yes, after looking carefully/No
+- It came from a service you subscribe to.......Yes, without double-checking/Yes, after looking carefully/No
+- It asked for your banking information.......Yes, without double-checking/Yes, after looking carefully/No
 
 ### Do you use VPNs?
 - Always
